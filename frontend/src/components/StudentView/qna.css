@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Roboto&display=swap');
+
+
+.icon{
+    width: 10px;
+    height: 10px;
+}
+.head {
+    font-size: 2vw;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        
+}
+.faq{
+    font-size: 3vw;
+    font-weight: bold;
+font-family: 'Roboto', sans-serif;
+}
+.sml{
+font-family: cursive;
+font-size: 20px;
+
+}
+.ques{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ans{
+font-size: 15px;
+font-family: 'Roboto', sans-serif;
+}
+
+
